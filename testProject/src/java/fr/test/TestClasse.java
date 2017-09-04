@@ -7,7 +7,7 @@ public class TestClasse {
 		
 		
 //		new comment
-		String myString="google";
+		String myString="googlevvv";
 		System.out.println("my string rst"+ myString);
 
 	}
