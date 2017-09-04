@@ -6,8 +6,8 @@ public class TestClasse {
 		
 		
 		
-//		new comment
-		String myString="google";
+//		new comment 
+		String myString="nvngoogle";
 		System.out.println("my string rst"+ myString);
 
 	}
